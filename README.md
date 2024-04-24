@@ -4,8 +4,8 @@ In the US, 57.8 million adults had mental illness in 2021. Workplace stress affe
 
 ##**Project Contributors:**
 
-Meghana Pisharodi
-Sharanya Gowda
-Helena Haryanto
-Raghavendra Polishetty
-Hongrae Roh
+- Meghana Pisharodi
+- Sharanya Gowda
+- Helena Haryanto
+- Raghavendra Polishetty
+- Hongrae Roh
