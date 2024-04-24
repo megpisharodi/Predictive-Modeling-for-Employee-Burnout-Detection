@@ -1,8 +1,11 @@
-# Predictive-Modeling-for-Employee-Burnout-Detection
-Notebook for the project on data visualization and predictive modeling for employee burnout detection using stress and mental health as indicators.
-Project Contributors:
+##**Predictive-Modeling-for-Employee-Burnout-Detection**
+
+In the US, 57.8 million adults had mental illness in 2021. Workplace stress affects 81% of employees, impacting relationships for 73%. This predictive model uses various data sources to detect employee burnout early, aiding proactive interventions and healthier work environments.
+
+##**Project Contributors:**
+
+Meghana Pisharodi
 Sharanya Gowda
 Helena Haryanto
-Meghana Pisharodi
 Raghavendra Polishetty
 Hongrae Roh
