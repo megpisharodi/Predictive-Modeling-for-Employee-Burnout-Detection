@@ -1,4 +1,4 @@
-**Predictive-Modeling-for-Employee-Burnout-Detection**
+**Predictive Modeling for Employee Burnout Detection**
 
 **Project Description**
 
